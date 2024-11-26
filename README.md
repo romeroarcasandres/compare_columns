@@ -2,7 +2,7 @@
 This script generates detailed comparison reports by comparing specified columns from delimited text files. It highlights differences between the columns and exports an HTML report for each file processed.
 
 ## Overview:
-The compare_columns_in_files script processes delimited text files (e.g., .csv, .tsv, .txt) within a selected directory. For each file, it compares two user-specified columns, calculates differences, and generates an HTML report displaying the results. These reports include side-by-side column data and highlighted differences for easy visualization.
+The Compare Columns script processes delimited text files (e.g., .csv, .tsv, .txt) within a selected directory. For each file, it compares two user-specified columns, calculates differences, and generates an HTML report displaying the results. These reports include side-by-side column data and highlighted differences for easy visualization.
 
 ## Requirements:
 Python 3
